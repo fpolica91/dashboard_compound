@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@compound-finance/compound-js": "^0.2.4",
+    "@netlify/plugin-nextjs": "^3.7.1",
     "bootstrap": "^5.0.0-beta3",
     "bufferutil": "^4.0.3",
     "next": "11.0.1",
